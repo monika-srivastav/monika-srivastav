@@ -63,7 +63,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: srivastavmonika295@gamil.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/monika-srivastav/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/monika-srivastav/monika-srivastav/issues)
 
 </p>
 
