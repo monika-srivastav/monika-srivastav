@@ -39,22 +39,18 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://monika.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="monika" />
  </a>
- <a href="https://linkedin.com/in/monika-srivastav" target="_blank">
+ <a href="https://www.linkedin.com/in/monika-srivastav-733217254" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="monika"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="monika" />
- </a> -->
  
- <a href="https://www.instagram.com/shubham_.kumar._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ 
+ <a href="https://www.instagram.com/monikashrivastava2712003/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="monika" />
  </a> 
- <a href="[https://facebook.com/alsiam.world](https://www.facebook.com/micle.kumar/)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+ 
 </p>
 <br />
 
@@ -66,8 +62,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Kshubham6425@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Shubhamdevl0per/Shubhamdevl0per/issues)
+ 📧 &emsp; Reach me anytime: srivastavmonika295@gamil.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/monika-srivastav/issues)
 
 </p>
 
@@ -90,7 +86,7 @@ i[java](https://www.flaticon.com/free-icon/java_226777)
 <br/>
 
 <p align="left">
-  <a href="https://github.com/Shubhamdevl0per?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/monika-srivastav?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -98,19 +94,19 @@ i[java](https://www.flaticon.com/free-icon/java_226777)
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Shubhamdevl0per">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamdevl0per&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monika-srivastav&theme=radical&border=7F3FBF&background=0D1117" alt="monika's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubhamdevl0perm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhamdevl0per&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/monika-srivastav">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Shubhamdevl0per"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Shubhamdevl0per&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Shubhamdevl0per"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdevl0per&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/monika-srivastav"><img alt="Al monika's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=monika-srivastav&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/monika-srivastav"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=monika-srivastav&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
