@@ -3,8 +3,7 @@
   Welcome to monika's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h1 align="center">Hi 👋, I'm Monika Srivastav</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+
 -->
 
 <!--
@@ -33,7 +32,7 @@
   <samp>
     <a href="https://www.google.com「 Google Me 」</a>
     <br>
-    「 I am a Front End web application developer from <b>India</b> 」
+    「 I am a software developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -41,17 +40,15 @@
 
 <p align="center">
  <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="monika" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://linkedin.com/in/monika-srivastav" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="monika"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="monika" />
  </a> -->
- <a href="https://twitter.com/Micheal_K1ng/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
+ 
  <a href="https://www.instagram.com/shubham_.kumar._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
