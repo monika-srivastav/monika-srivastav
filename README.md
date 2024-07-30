@@ -58,8 +58,8 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://www.google.com/imgres?q=coding%20image&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F546819%2Fpexels-photo-546819.jpeg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&docid=vLxISuumaP92rM&tbnid=83Ul9Y3wLkV0NM&vet=12ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECHIQAA..i&w=4288&h=2848&hcb=2&ved=2ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECHIQAA" alt="Coding gif" />
-  
+<!--  <img" width="350" src="https://www.google.com/imgres?q=coding%20image&imgurl=https%3A%2F%2Fwww.computersciencedegreehub.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fshutterstock_535124956-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.computersciencedegreehub.com%2Ffaq%2Fwhat-is-coding%2F&docid=VK7KWe04ttHEHM&tbnid=zEPva_yynORCfM&vet=12ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECGUQAA..i&w=2560&h=1890&hcb=2&ved=2ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECGUQAA" alt="Coding gif" /> -->
+<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=monika-srivastav&theme=radical&border=7F3FBF&background=0D1117" alt="monika's GitHub streak"/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: srivastavmonika295@gamil.com<br/><br/>
@@ -99,6 +99,7 @@
 
 <p align="center">
   <a href="">
+     
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=monika-srivastav&theme=radical&border=7F3FBF&background=0D1117" alt="monika's GitHub streak"/>
   </a>
 </p>
