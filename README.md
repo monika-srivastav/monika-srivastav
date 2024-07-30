@@ -22,8 +22,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp><h1 align="center">Hi 👋, I'm Monika Srivastav</h1>
-<h3 align="center">A passionate to become a Mern Stack developer </h3>
+        <samp><h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Monika Srivastav</h1>
+<h3 align="center"> I'm passionate to become a Mern Stack developer </h3>
         </samp>
 </h3>
 
@@ -58,7 +58,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="programming-code-abstract-technology-background-of-software-deve-gm537331500-95204155" alt="Coding gif" />
+ <img align="right" width="350" src="https://www.google.com/imgres?q=coding%20image&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F546819%2Fpexels-photo-546819.jpeg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&docid=vLxISuumaP92rM&tbnid=83Ul9Y3wLkV0NM&vet=12ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECHIQAA..i&w=4288&h=2848&hcb=2&ved=2ahUKEwizl7212s6HAxWfUGwGHYDMAQwQM3oECHIQAA" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
